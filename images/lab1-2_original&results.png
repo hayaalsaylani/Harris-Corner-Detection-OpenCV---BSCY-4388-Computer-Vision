@@ -1,0 +1,4 @@
+lab1_original.png: Original waffle image
+lab1_harris_result.png: Image with red detected corners
+lab2_original.png: Original video screenshot
+lab2_harris_result.png: Processed video screenshot
