@@ -1,8 +1,6 @@
 # Harris-Corner-Detection-OpenCV---BSCY-4388-Computer-Vision
 Harris Corner Detection using Python and OpenCV for image and video processing.
 
-# Harris Corner Detection using OpenCV
-
 ## Project Overview
 This project implements the Harris Corner Detection algorithm using Python and OpenCV for image and video processing.
 
